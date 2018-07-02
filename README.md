@@ -1,0 +1,3 @@
+# now-now-now
+Littlest command line tool for getting the current time
+Nothing much other than the above....
